@@ -11,6 +11,8 @@ and delivering a clean one-page report to management.
 
 ---
 
+![MIS_Report](MIS_Report.png)
+
 ## Dataset
 - 990 rows of inventory data
 - Columns: Product_Name, Category, Supplier_Name, Warehouse_Location, Status, 
