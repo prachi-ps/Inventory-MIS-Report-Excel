@@ -12,6 +12,7 @@ and delivering a clean one-page report to management.
 ---
 
 ![MIS_Report](MIS_Report.png)
+![MIS_Report](image.png)
 
 ## Dataset
 - 990 rows of inventory data
